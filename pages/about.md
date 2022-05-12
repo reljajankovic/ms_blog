@@ -11,7 +11,7 @@ I started this blog with the intention to discuss and dive deeper into topics in
 
 The goal of this project is to analyze scientific literature from different areas of economics and psychology in order to extract from them useful conclusions that can be communicated in plain speech. My goal is to make every topic, from the basics of economics to the complex subjects in the overlap of multiple fields, easy to understand and fun to read.
 
-## Who Am I?
+## Author
 
 I'm Relja Jankovic and I'm currently entering my fourth year of BS in the area of work and organizational psychology with previous work experience in project management and data analysis.
 
