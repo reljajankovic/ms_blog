@@ -9,7 +9,7 @@ Thank you for visiting!
 
 I started this blog with the intention to discuss and dive deeper into topics in higher-level marketing, economics, and social psychology.
 
-The project is oriented towards analyzing technical subject material or case studies and trying to extract from them the most useful conclusions that can be communicated in plain speech. My goal is to make every topic, from the basics of economics to the complex subjects in the overlap between marketing and psychology, easy to understand and fun to read.
+The goal of this project is to analyze scientific literature from different areas of economics and psychology in order to extract from them useful conclusions that can be communicated in plain speech. My goal is to make every topic, from the basics of economics to the complex subjects in the overlap of multiple fields, easy to understand and fun to read.
 
 ## Who Am I?
 
