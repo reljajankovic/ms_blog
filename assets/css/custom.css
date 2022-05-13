@@ -6,7 +6,7 @@ Just customize your theme here.
 body {
   
 @media only screen and (max-width: 800px) {
-  body {
+  .hero {
     background-color: lightblue;
   }
 }
