@@ -23,7 +23,7 @@
       //Reading Time Calculation
 
                      function readingTime() {
-  const text = document.getElementById("article").innerText;
+  const text = document.getElementsByClassName("article-post serif-font").innerText;
   const wpm = 225;
   const words = text.trim().split(/\s+/).length;
   const time = Math.ceil(words / wpm);
