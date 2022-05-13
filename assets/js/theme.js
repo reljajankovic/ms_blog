@@ -19,6 +19,17 @@
       $(document).ready(function () {
         $('body.hero-anime').removeClass('hero-anime');
       });
+        
+      //Reading Time Calculation
+
+                     function readingTime() {
+  const text = document.getElementById("article").innerText;
+  const wpm = 225;
+  const words = text.trim().split(/\s+/).length;
+  const time = Math.ceil(words / wpm);
+  document.getElementById("time").innerText = time;
+}
+readingTime();
     
       //Menu On Hover
     
