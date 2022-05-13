@@ -4,13 +4,11 @@ Just customize your theme here.
 ================================================== */
 
 body {
-.mobile-text {
-  text-align: left !important;
-}
-
-@media (max-width: 600px) {
-  .mobile-text {
-    text-align: left !important;
+  
+@media only screen and (max-width: 800px) {
+  body {
+    background-color: lightblue;
   }
 }
+  
 }
