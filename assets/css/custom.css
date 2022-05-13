@@ -3,4 +3,14 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
-body {}
+body {
+.mobile-text {
+  text-align: left !important;
+}
+
+@media (max-width: 600px) {
+  .mobile-text {
+    text-align: left !important;
+  }
+}
+}
