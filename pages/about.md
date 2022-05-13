@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: "/about/"
 image: assets/images/about-top-image.png
+description: A Weekly Blog Where We Take A Deep Dive Into Topics Surrounding Marketing, Economics, And Psychology. Join In On Our Discussion!
 ---
 
 Thank you for visiting!
