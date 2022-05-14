@@ -3,7 +3,7 @@ layout: post
 title: Keyword Research
 image: assets/images/keyword-research-image.jpg
 ---
-## Determine Seearch Intent
+## Determine Search Intent
 
 Search intent represents the need that the users have and is generally represented by the most prominent search results. 
 
