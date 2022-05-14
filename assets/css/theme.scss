@@ -117,7 +117,7 @@ small, .small {
     display: inline-block !important;
     width: 20px;
     height: 20px;
-    margin-left: 15px;
+    margin-left: 5px;
 }
 
 /* Sidebar
@@ -130,6 +130,16 @@ small, .small {
     .dropdown-item.blog {
         display:none
     }
+}
+
+.newsletter-contact a:last-child {
+    float: right;
+    margin-right: 80px;
+}
+
+.newsletter-contact a:first-child {
+    float: left;
+    margin-right: 80px;
 }
 
 /* Pages
