@@ -19,6 +19,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
+ganalytics: G-ZBSQ1NBPBQ
 
 # Social
 social:
