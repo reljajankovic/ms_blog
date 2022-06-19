@@ -14,7 +14,7 @@ The goal of this project is to analyze scientific literature from different area
 
 ## Author
 
-I'm Relja Jankovic and I'm currently entering my fourth year of BS in the area of work and organizational psychology with previous work experience in project management and data analysis.
+I'm Relja Jankovic a fourth year student of BS in the area of work and organizational psychology with previous work experience in project management and data analysis.
 
 My interests vary greatly but are mostly focused on behavioral economics, marketing, and their interactions with personality models and intelligence. Some additional areas in which I'm interested, include the psychology of organizational structures and their relation to productivity, psychometric modeling and quantification of psychological or behavioral traits/actions, and game theory, just to name a few.
 
