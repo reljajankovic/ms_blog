@@ -18,7 +18,7 @@ As you may have guessed, SWOT is an acronym and stands for:
 
 SWOTs are usually arranged in a 2-by-2 matrix where the x-axis relates to the effect the factor has on the company which can either be enhancing or inhibiting, and the y-axis relates to the controllability of the factor which can be internal or external (under the company's control or outside of its control). These combinations lead to the four factors we just defined.
 
-![SWOT analysis matrix](swot-analysis/swot-analysis-matrix.png)
+![SWOT analysis matrix](./assets/images/swot-analysis/swot-analysis-matrix.png)
 
 
 The main objectives of the SWOT analysis are to:
@@ -63,7 +63,7 @@ The facilitator needs to secure a secluded area where the members of the group c
 
 Before starting the discussion it is incredibly important that the rules of SWOT are explained to group members. Similarly, the categories of SWOT must be precisely defined to avoid any potential confusion.
 
-![SWOT analysis examples of factors](swot-analysis/swot-examples.png)
+![SWOT analysis examples of factors](./assets/images/swot-analysis/swot-examples.png)
 
 #### Process
 
@@ -111,7 +111,7 @@ Now that the data is quantified it can be plotted on a graph to visually represe
 ### Step 6: Determining Further Company Action
 
 The gathered data allows decision-makers to appropriately decide which factors to act upon first and which ones to ignore. The decisions to act are made easier by defining an arbitrary threshold, above which the factor is acted upon and below which it is simply monitored. This threshold should be defined before collecting data to avoid potential bias when constructing it.
-![SWOT analysis graph and thresholds](swot-analysis/swot-graph-thresholds.png)
+![SWOT analysis graph and thresholds](./assets/images/swot-analysis/swot-graph-thresholds.png)
 
 Based on the relation of a factor to its threshold there are three courses of action decision-makers can take:
 
