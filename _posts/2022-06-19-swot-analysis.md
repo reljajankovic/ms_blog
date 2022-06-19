@@ -18,7 +18,7 @@ As you may have guessed, SWOT is an acronym and stands for:
 
 SWOTs are usually arranged in a 2-by-2 matrix where the x-axis relates to the effect the factor has on the company which can either be enhancing or inhibiting, and the y-axis relates to the controllability of the factor which can be internal or external (under the company's control or outside of its control). These combinations lead to the four factors we just defined.
 
-<img src="assets/images/swot-analysis/swot-analysis-matrix.png" alt="SWOT analysis matrix">
+<img src="/assets/images/swot-analysis/swot-analysis-matrix.png" alt="SWOT analysis matrix">
 
 The main objectives of the SWOT analysis are to:
 
@@ -62,7 +62,7 @@ The facilitator needs to secure a secluded area where the members of the group c
 
 Before starting the discussion it is incredibly important that the rules of SWOT are explained to group members. Similarly, the categories of SWOT must be precisely defined to avoid any potential confusion.
 
-<img src="swot-analysis/swot-examples.png" alt="SWOT analysis examples of factors">
+<img src="/assets/images/swot-analysis/swot-examples.png" alt="SWOT analysis examples of factors">
 
 #### Process
 
