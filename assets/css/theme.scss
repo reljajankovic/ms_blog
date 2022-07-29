@@ -61,7 +61,12 @@ a {
         transition: all .4s;
     }
 }
-img, video {max-width:100%;}
+img, video {
+	max-width:100%;
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+}
 
 
 .item-card .categories {
