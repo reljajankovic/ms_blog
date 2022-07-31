@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About
+title: More About The Author
 permalink: "/about/"
 image: assets/images/about-top-image.png
-description: A Weekly Blog Where We Take A Deep Dive Into Topics Surrounding Marketing, Economics, And Psychology. Join In On Our Discussion!
+description: I'm Relja Jankovic, a fourth year BS student in the area of work and organizational psychology with previous work experience in project management and data analysis. I stareted this blog so that I can discuss topics that I'm constantly learning about.
+
 ---
 
 Thank you for visiting!
@@ -14,7 +15,7 @@ The goal of this project is to analyze scientific literature from different area
 
 ## Author
 
-I'm Relja Jankovic a fourth year student of BS in the area of work and organizational psychology with previous work experience in project management and data analysis.
+I'm Relja Jankovic a fourth year BS student in the area of work and organizational psychology with previous work experience in project management and data analysis.
 
 My interests vary greatly but are mostly focused on behavioral economics, marketing, and their interactions with personality models and intelligence. Some additional areas in which I'm interested, include the psychology of organizational structures and their relation to productivity, psychometric modeling and quantification of psychological or behavioral traits/actions, and game theory, just to name a few.
 
