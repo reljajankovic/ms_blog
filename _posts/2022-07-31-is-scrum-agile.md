@@ -4,9 +4,6 @@ title: Is Scrum Agile? The Difference Between Agile and Scrum Methodology
 image: assets/images/scrum-agile/agile_title.jpg
 ---
 
-
-# Is Scrum Agile? The Difference Between Agile and Scrum Methodology
-
 A lot of confusion comes from understanding the relationship between agile, scrum, and other agile-related methodologies. What most people know is that both have a fast-paced, iterative approach to their day-to-day operations with a focus on process improvement, although the specifics of each tend to get a bit blurry. In this article, I'll aim to make that relationship a little clearer by providing a detailed side-by-side comparison of the two, and discussing the practical intricacies of both methodologies. 
 
 ## Defining Agile And Scrum
