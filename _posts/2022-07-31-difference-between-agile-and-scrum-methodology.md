@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Scrum Agile? The Difference Between Agile and Scrum Methodology
+title: Is Scrum Agile? The Difference Between Agile and Scrum
 image: assets/images/scrum-agile/agile_title.jpg
 ---
 
