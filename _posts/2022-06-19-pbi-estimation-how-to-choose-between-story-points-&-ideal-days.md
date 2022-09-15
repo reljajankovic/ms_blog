@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PBI Estimation: How To Choose Between Story Points & Ideal Days
-image: assets/images/swot-analysis/Product_Backlog_Item_Organization.png
+image: assets/images/story-points-vs-ideal-days/Product_Backlog_Item_Organization.png
 ---
 
 A key feature of the Scrum framework is the ability to plan our sprints and releases by evaluating the work capacity of our team. This becomes much more difficult if we don't have a standardized way of estimating the size of our tasks. In this article, we will cover the two most common approaches to product backlog item estimation, story points and ideal days.
@@ -9,7 +9,7 @@ A key feature of the Scrum framework is the ability to plan our sprints and rele
 ## What Is A Product Backlog Item?
 The product backlog, or the desired list of functionalities for our product, consists of Product Backlog Items, or PBIs for short. PBIs are mostly features that will provide a tangible value to the end-user or customer and are often written as user stories. They could represent something brand new (like a login screen for a new website), or an update of an already existing feature (an update to the loading screen of an older website). Additionally, PBIs can include defects that need repair, technical improvements, or knowledge acquisition.
 
-<img src="/assets/images/scrum-agile/The_Scrum_Workflow.png" alt="The Standard Scrum Workflow">
+<img src="/assets/images/story-points-vs-ideal-days/The_Scrum_Workflow.png" alt="The Standard Scrum Workflow">
 
 User stories are a way of representing PBIs so that they can be easily understood by both the business and the technical side of the company. They are written from the user's perspective and clearly state what the feature is, as well as the benefits it will have to the end user.
 
@@ -35,7 +35,7 @@ Before we dive deeper into tools you can use to estimate your product backlog it
 - **Estimates are not commitments**: If estimates are treated like worker commitments, the workers will in most cases overestimate the effort to not risk breaching the due date and incurring some penalties. For this reason, estimates should stay exactly that, estimates.
 - **Accuracy over precision:** We should aim for the estimates to be accurate, without being overly precise. In other words, they should be in the ballpark of the actual effort that this item will take to complete. Aiming for precision will often expend too many resources without providing much additional benefit.
 
-<img src="/assets/images/scrum-agile/Accuracy_Vs_Precision_In_Scrum_Product_Backlog_Estimation.png" alt="The Graph Of Accuracy Vs Precision In Scrum Product Backlog Estimation">
+<img src="/assets/images/story-points-vs-ideal-days/Accuracy_Vs_Precision_In_Scrum_Product_Backlog_Estimation.png" alt="The Graph Of Accuracy Vs Precision In Scrum Product Backlog Estimation">
 
 - **Relative size estimation:** The estimates should be size comparisons to other items and shouldn't be in the form of absolute sizes as people are generally much better at the former.
 
