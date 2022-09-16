@@ -1,6 +1,7 @@
 ---
 layout: post
-title: How To Choose Between Story Points & Ideal Days
+title: PBI Estimation: How To Choose Between Story Points & Ideal Days
+page_title: How To Choose Between Story Points & Ideal Days
 image: assets/images/story-points-vs-ideal-days/Product_Backlog_Item_Organization.png
 permalink: "/how-to-choose-between-story-points-and-ideal-days/"
 ---
