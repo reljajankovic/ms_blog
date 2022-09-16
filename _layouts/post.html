@@ -65,13 +65,13 @@ post_class: post-template
             <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
 	      
 		{% if page.previous.url %}
-		    <div class="col-md-6 text-right pr-0">
-                    <a class="thepostlink" href="{{page.previous.url | absolute_url}}">{{page.previous.title}} &raquo;</a>
+		        <div class="col-md-6 rightborder pl-0">
+		    <a class="thepostlink" href="{{page.next.url | absolute_url}}">&laquo; {{page.next.title}}</a>
                 </div>
               {% endif %}
               	{% if page.next.url %}
-                	<div class="col-md-6 rightborder pl-0">
-                    <a class="thepostlink" href="{{page.next.url | absolute_url}}">&laquo; {{page.next.title}}</a>
+                	<div class="col-md-6 text-right pr-0">
+                    <a class="thepostlink" href="{{page.previous.url | absolute_url}}">{{page.previous.title}} &raquo;</a>
                 </div>
               {% endif %}
             </div>
