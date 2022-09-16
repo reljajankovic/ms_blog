@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Marketers Guide to SWOT Analysis
+title: A Practical Guide to SWOT Analysis
 image: assets/images/swot-analysis/swot-header-new.png
 ---
 
