@@ -22,5 +22,5 @@ My interests vary greatly but are mostly focused on behavioral economics, market
 
 Hope that you are finding my website interesting and if you wish to contact me, please use one of the following methods:
 
-- <img src="{{site.baseurl}}/assets/images/linkedin_logo.png" alt="linkedin logo" width="28" height="28"/>[LinkedIn](https://www.linkedin.com/in/relja-jankovic)
-- <img src="{{site.baseurl}}/assets/images/email-logo.png" alt="linkedin logo" width="28" height="28"/>Email: [relja.j@protonmail.com](mailto:relja.j@protonmail.com)
+- <img class="about" src="{{site.baseurl}}/assets/images/linkedin_logo.png" alt="linkedin logo" width="28" height="28"/> [LinkedIn](https://www.linkedin.com/in/relja-jankovic)
+- <img class="about" src="{{site.baseurl}}/assets/images/email-logo.png" alt="linkedin logo" width="28" height="28"/> Email: [relja.j@protonmail.com](mailto:relja.j@protonmail.com)
