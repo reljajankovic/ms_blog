@@ -46,19 +46,23 @@ Story points measure the magnitude of a PBI by taking into account the size of t
 When our story sizes are properly estimated, we can use our team's average velocity (the average amount of story points our team completes in a sprint) to calculate how many sprints it would take to complete some parts of our backlog. We can do this by taking the total story points from the PBIs in that part of the backlog and dividing them by our team's velocity.
 
 ### Pros of story points
-- It's much easier to estimate velocity than with ideal days- It abides by the "relative measures only" rule for product backlog items much better than ideal days
+- It's much easier to estimate velocity than with ideal days
+- It abides by the "relative measures only" rule for product backlog items much better than ideal days
 
 ### Cons of story points
-- Abstract and harder to understand- It's Harder to get a time estimate and create a schedule- It will require a decent amount of work to educate the team and the stakeholders about this method
+- Abstract and harder to understand- It's Harder to get a time estimate and create a schedule
+- It will require a decent amount of work to educate the team and the stakeholders about this method
 
 ## What Are Ideal Days?
 An alternative approach for estimating PBIs is to use ideal days, or the number of effort-days or person-days that are needed to complete a story. One thing that you should keep in mind is that ideal days are not the same as elapsed time, they represent the number of days a team or a person will take to complete the story if they had no other distractions or interruptions.
 
 ### Pros of ideal days:
-- It's intuitive and concrete- Clients and stakeholders understand it more easily than story points
+- It's intuitive and concrete
+- Clients and stakeholders understand it more easily than story points
 
 ### Cons of ideal days:
-- People are usually bad at estimating time- Risk of stakeholders misinterpreting ideal days as time commitments
+- People are usually bad at estimating time
+- Risk of stakeholders misinterpreting ideal days as time commitments
 
 ## Which Is Better, Story Points Or Ideal Days?
 This question doesn't have write or wrong answer. The best thing you can do is evaluate the pros and cons of each of the characteristics of your team. Even trying out each of these for some time wouldn't be bad as you can better get a grip on what works better in your context. I tend to sway in the direction of story points primarily because of the advantages it has when it comes to calculating velocity, as well as the great risk of ideal days being misunderstood as commitments.
