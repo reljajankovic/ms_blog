@@ -3,6 +3,7 @@ layout: post
 title: How To Choose Between Story Points & Ideal Days
 image: assets/images/story-points-vs-ideal-days/Product_Backlog_Item_Organization.png
 permalink: "/how-to-choose-between-story-points-and-ideal-days/"
+description: What's the difference between the two most used approaches to PBI estimation, story points & ideal days? Learn what they are so that you can decide which one fits your team better.
 ---
 
 A key feature of the Scrum framework is the ability to plan our sprints and releases by evaluating the work capacity of our team. This becomes much more difficult if we don't have a standardized way of estimating the size of our tasks. In this article, we will cover the two most common approaches to product backlog item estimation, story points and ideal days.
