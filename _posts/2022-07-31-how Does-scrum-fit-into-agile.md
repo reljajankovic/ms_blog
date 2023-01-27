@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Scrum Agile? The Difference Between Agile and Scrum Framework
+title: How Does Scrum Fit Into Agile? An Intro To The Scrum Framework
 image: assets/images/scrum-agile/agile_title.jpg
 description: This article aims to make the relationship between Agile & Scrum clearer, by providing a detailed side-by-side comparison of their practical application.
 ---
