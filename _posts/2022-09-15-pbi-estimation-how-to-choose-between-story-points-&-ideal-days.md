@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scrum Sprint Planning\: Choosing between Story Points & Ideal Days
+title: "Scrum Sprint Planning: Choosing between Story Points & Ideal Days"
 image: assets/images/story-points-vs-ideal-days/Product_Backlog_Item_Organization.png
 permalink: "/how-to-choose-between-story-points-and-ideal-days/"
 description: What's the difference between the two most used approaches to PBI estimation, story points & ideal days? Learn what they are so that you can decide which one fits your team better.
