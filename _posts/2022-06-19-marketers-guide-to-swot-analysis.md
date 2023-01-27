@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Practical Guide to SWOT Analysis
+title: Unlock the Power of SWOT: A Practical Guide to Effective Analysis
 image: assets/images/swot-analysis/swot-header-new.png
 description: Learn how to conduct a SWOT analysis effectively and how to act on findings. This article covers the best practices and a 6-step approach to standardize the analysis process.
 ---
