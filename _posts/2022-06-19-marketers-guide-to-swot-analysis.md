@@ -2,7 +2,7 @@
 layout: post
 title: A Practical Guide to SWOT Analysis
 image: assets/images/swot-analysis/swot-header-new.png
-description: A detailed guide that will teach you how to use SWOT to your advantage and apply it to better achieve your business goals.
+description: Learn how to conduct a SWOT analysis effectively and how to act on findings. This article covers the best practices and a 6-step approach to standardize the analysis process.
 ---
 
 Being one of the most widely used and, at the same time, one of the most misused business analysis techniques means that SWOT has had its fair share of bad press over the years. Despite all this, there are some very good reasons it's so widespread and can be extremely effective if implemented correctly. Today we will discuss the best practical approach to conducting a SWOT analysis so that you can use this very helpful tool to your advantage.
