@@ -2,7 +2,7 @@
 layout: post
 title: 5 Reasons to Avoid Readability Formulas and Their Alternatives
 image: assets/images/readability.jpeg
-description: Unlock the secrets of readability formulas and discover why they might not be the best choice for improving your content. Learn about reliable alternatives in our expert-written article.
+description: Unlock the secrets of readability formulas and discover why they might not be the best choice for improving your content. Learn about reliable alternatives in this comprehensive article.
 ---
 
 There is a large number of programs out there that claim to be able to analyze the readability of your content and help you improve the reader experience. In this article, we will cover all of the issues that exist within this type of software and suggest to you a couple of possible and better alternatives.
